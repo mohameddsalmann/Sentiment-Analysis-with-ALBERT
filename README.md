@@ -2,6 +2,7 @@
 
 # Team work:
 **Mohamed Salman**
+
 **Amr Khaled**
 
 This repository contains a Jupyter notebook for performing sentiment analysis on text data using the ALBERT (A Lite BERT) model. The project leverages natural language processing (NLP) techniques and deep learning to classify text as positive or negative. Additionally, a graphical user interface (GUI) built with `tkinter` allows users to input text and view sentiment predictions interactively.
